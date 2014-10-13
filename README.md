@@ -13,6 +13,7 @@ Design Goals
 
 - combine social network and human-like operating system together
 - understand the user intention and provide suggestion and assistance
+	- continuous deep learning on user behaviors
 - use gesture (leap motion) as well as touch, voice, camera (kinect), and keyboard input
 	- for example you can shake your head to say "no"
 	- just like what **Tony Stark** has with **JARVIS**
